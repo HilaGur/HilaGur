@@ -1,0 +1,9 @@
+---
+A: 5000
+B: 20
+C: 2
+MY_FILE: result.txt
+SEND_TYPE: TCP
+VM_2: 132.72.105.219
+
+
